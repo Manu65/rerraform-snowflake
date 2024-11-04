@@ -1,0 +1,1 @@
+insert into hello_world values ('alicia','peralta',41);
